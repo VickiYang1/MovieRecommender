@@ -1,7 +1,3 @@
-Here's a reformatted version of your project description, structured for a README file:
-
----
-
 # Movie Recommendation System
 
 The **Movie Recommendation System** is a Python-based application that allows users to discover recommended and similar movies based on their preferences. By leveraging data from CSV files, the system enables users to search for movies by title, tag, and genre, filtering the results according to the input provided.
